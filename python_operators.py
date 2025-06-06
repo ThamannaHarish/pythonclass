@@ -1,6 +1,7 @@
 # Simple Python Program Demonstrating All Operators
 
-a, b = 10, 3
+a=int(input("Enter the operand:"))
+b=int(input("Enter the operand:"))
 x, y = True, False
 
 print("Arithmetic Operators:")
